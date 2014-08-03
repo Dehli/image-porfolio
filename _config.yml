@@ -1,3 +1,5 @@
 name: Dehli Design, LLC
 markdown: redcarpet
 pygments: true
+permalink: none
+baseurl: /image-portfolio

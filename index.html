@@ -7,7 +7,7 @@ title: Dehli Design, LLC
   <ul class="posts">
     {% for post in site.posts %}
       <li>
-      	<a href="{{ post.url }}">
+      	<a href="{{ site.baseurl }}{{ post.url }}">
       		<img src={{ post.image}} alt="Image Title" width="25%">
       	</a>
       </li>
