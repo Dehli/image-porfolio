@@ -11,11 +11,11 @@ title: Dehli Design, LLC
       {% assign mod = forloop.index0 | modulo:4 %}
       
       {% if mod == 0 %}
-        <li width="25%">
+        <li>
       {% endif %}
       
-      <a href="{{ site.baseurl }}{{ post.url }}">
-        <img src={{ post.image}} alt="Art" width="100%">
+      <a href="{{ site.baseurl }}{{ post.url }}" width="25%">
+        <img src={{ post.image}} alt="Art">
       </a>
       
       {% if mod == 3 or forloop.index0 == site.posts.size %}
