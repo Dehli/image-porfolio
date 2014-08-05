@@ -1,7 +1,0 @@
----
-layout: post
-title:  "Curves"
-image: https://farm6.staticflickr.com/5567/14796591826_fabef76a11.jpg
----
-
-This is where the image description will go.
