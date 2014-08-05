@@ -10,7 +10,9 @@
   padding: 0;
 }
 
-html, body { height: 100%; }
+html, body { 
+  height: 100%; 
+}
 
 body {
   background-color: #FFF;
@@ -41,17 +43,15 @@ a:visited { color: #a0a; }
 /*****************************************************************************/
 .posts {
   list-style-type: none;
-  margin-bottom: 2em;
 }
 
-.posts li {
-  line-height: 1.75em;
+.posts a {
+  display: inline-block;
+  width: 24%;
 }
 
-.posts span {
-  color: #aaa;
-  font-family: Monaco, "Courier New", monospace;
-  font-size: 80%;
+.posts img {
+  width: 100%;
 }
 
 /*****************************************************************************/
