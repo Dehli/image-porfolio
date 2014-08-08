@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Breaking Through"
+image: https://farm3.staticflickr.com/2930/14632893790_757bf5631e_z.jpg
+thumbnail: https://farm6.staticflickr.com/5551/14861844445_a4787de53f_z.jpg
+---
+
+This is where the image description will go.
