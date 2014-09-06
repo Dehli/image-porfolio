@@ -1,8 +1,6 @@
 ---
 layout: post
-title:  "Sailboat"
+title:  "The Storm"
 image: https://farm3.staticflickr.com/2901/14796591126_4a37b52139.jpg
 thumbnail: https://farm4.staticflickr.com/3885/14648986580_ca909cd1e6_n.jpg
 ---
-
-This is where the image description will go.
