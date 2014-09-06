@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Motion"
-image: https://farm3.staticflickr.com/2924/14839412883_9fc29db7b2_b.jpg
-thumbnail: https://farm4.staticflickr.com/3899/14675142979_b0c9c944ab.jpg
+title:  "Voyage"
+image: https://farm4.staticflickr.com/3874/14817217414_a8dfb89cd7.jpg
+thumbnail: https://farm4.staticflickr.com/3912/14859312574_0a8b733842_n.jpg
 ---
 
-24"x10"x6" Walnut/Copper/Steel Magnets
+18"x18"x4" Walnut/Ambrosia Maple/Copper
