@@ -3,4 +3,4 @@ markdown: redcarpet
 pygments: true
 permalink: none
 github: [Repository metadata]
-#baseurl: /image-portfolio
+baseurl: / #image-portfolio
