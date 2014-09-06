@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Voyage"
-image: https://farm4.staticflickr.com/3874/14817217414_a8dfb89cd7.jpg
+image: https://farm4.staticflickr.com/3869/14632926459_2bef764c9f.jpg
 thumbnail: https://farm4.staticflickr.com/3912/14859312574_0a8b733842_n.jpg
 ---
 

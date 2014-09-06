@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Breaking Through"
-image: https://farm3.staticflickr.com/2930/14632893790_757bf5631e_z.jpg
+image: https://farm3.staticflickr.com/2930/14632893790_757bf5631e.jpg
 thumbnail: https://farm4.staticflickr.com/3910/15148697231_6148855b0f.jpg
 ---
 
