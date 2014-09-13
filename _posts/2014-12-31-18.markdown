@@ -1,0 +1,6 @@
+---
+layout: post
+title:  "Beginnings"
+image: https://farm4.staticflickr.com/3883/15166110101_20d1ac5afc.jpg
+thumbnail: https://farm6.staticflickr.com/5579/15197499536_83f4de0bbc_n.jpg
+---
