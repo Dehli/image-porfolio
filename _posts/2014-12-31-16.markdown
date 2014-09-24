@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "Hope"
-image: https://farm4.staticflickr.com/3919/15168741932_03182252df.jpg
+image: https://farm4.staticflickr.com/3836/15096515140_7933d27253.jpg
 thumbnail: https://farm4.staticflickr.com/3840/15220036432_7929163c6a_n.jpg
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "Soaring"
-image: https://farm4.staticflickr.com/3887/14982382840_2e9b44f881.jpg
+image: https://farm4.staticflickr.com/3918/15260213816_db89607feb.jpg
 thumbnail: https://farm4.staticflickr.com/3917/15197322626_5744bdc91c_n.jpg
 ---
