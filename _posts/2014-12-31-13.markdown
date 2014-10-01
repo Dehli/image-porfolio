@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Israel"
-image: https://farm6.staticflickr.com/5583/14982370640_384f2cfe31.jpg
+image: https://farm4.staticflickr.com/3864/15153657109_8fd3d8231d.jpg
 thumbnail: https://farm6.staticflickr.com/5577/15217096081_96624de8a2_n.jpg
 ---
 
