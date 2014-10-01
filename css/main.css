@@ -47,7 +47,7 @@ a:visited { color: #a0a; }
 
 .posts a {
   display: inline-block;
-  width: 19%;
+  width: 14%;
 }
 
 .posts img {
@@ -74,7 +74,7 @@ img.grayscale:hover {
 .site {
   font-size: 115%;
   text-align: justify;
-  width: 42em;
+  width: 72em;
   margin: 3em auto 2em;
   line-height: 1.5em;
 }
