@@ -1,7 +1,12 @@
 ---
 layout: default
 ---
-<h2>{{ page.title }}</h2>
+
+<script src="myscripts.js"></script>
+
+<body onload="setup()">
+
+<h2 id="title">{{ page.title }}</h2>
 <h4>{{ page.price }}</h4>
 
 <img src={{ page.image }} alt="Art">
