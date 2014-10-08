@@ -3,6 +3,7 @@ layout: post
 title:  "Israel"
 image: https://farm4.staticflickr.com/3864/15153657109_8fd3d8231d.jpg
 thumbnail: https://farm6.staticflickr.com/5577/15217096081_96624de8a2_n.jpg
+price: $1000
 ---
 
 28"x22"x10" ambrosia maple/walnut/copper

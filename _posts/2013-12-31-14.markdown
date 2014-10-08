@@ -3,6 +3,7 @@ layout: post
 title:  "Rocket Man"
 image: https://farm6.staticflickr.com/5551/15260314766_ec3e5f1a14_z.jpg
 thumbnail: https://farm4.staticflickr.com/3893/15033654998_98b092432d_n.jpg
+price: $520
 ---
 
 33"x16"x3 1/2" Ambrosia Maple/Walnut/Copper

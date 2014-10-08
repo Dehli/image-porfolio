@@ -3,6 +3,7 @@ layout: post
 title:  "Flowing"
 image: https://farm6.staticflickr.com/5570/15034010048_175d9a0917.jpg
 thumbnail: https://farm6.staticflickr.com/5579/15248818931_e87cffb9c1_n.jpg
+price: $3000
 ---
 
 45"x11"x5" ambrosia maple/walnut
