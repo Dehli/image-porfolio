@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Journey"
+image:
+thumbnail:
+dimensionX:
+dimensionY:
+dimensionZ:
+materials:
+price: $1150
+---

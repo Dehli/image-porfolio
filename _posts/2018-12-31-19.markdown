@@ -3,8 +3,9 @@ layout: post
 title:  "New Growth"
 image: https://farm4.staticflickr.com/3850/15280132581_0cc0699d76.jpg
 thumbnail: https://farm4.staticflickr.com/3862/15034096167_a53b80518a_n.jpg
+dimensionX: 99"
+dimensionY: 28"
+dimensionZ: 5.5"
+materials: Walnut/Ambrosia Maple/Copper
 price: $1900
 ---
-
-99"x28"x5 1/2"
-Walnut/Ambrosia Maple/Copper

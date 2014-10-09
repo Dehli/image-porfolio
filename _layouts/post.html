@@ -3,13 +3,15 @@ layout: default
 ---
 
 <script src="myscripts.js"></script>
-
 <body onload="setup()">
 
 <h2 id="title">{{ page.title }}</h2>
 <h4>{{ page.price }}</h4>
 
-<img src={{ page.image }} alt="Art">
+<div>
+<img src={{ page.image }} alt="Art" style="float:left">
+<p>{{ page.dimensionX }} x {{ page.dimensionY }} x {{ page.dimensionZ }}</p/>
+</div>
 
 <div class="post">
 {{ content }}

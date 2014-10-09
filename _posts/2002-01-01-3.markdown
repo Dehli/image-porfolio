@@ -3,6 +3,9 @@ layout: post
 title:  "Chromosome"
 image: https://farm3.staticflickr.com/2932/14632935469_e203294d32.jpg
 thumbnail: https://farm4.staticflickr.com/3851/14965355578_50cb6770a7_n.jpg
+dimensionX: 39.5"
+dimensionY: 10"
+dimensionZ: 7"
+materials: Oak
+price:
 ---
-
-39 1/2" x 10" x 7" Oak

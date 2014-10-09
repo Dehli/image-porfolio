@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Shake It"
+image:
+thumbnail:
+dimensionX:
+dimensionY:
+dimensionZ:
+materials:
+price: $430
+---

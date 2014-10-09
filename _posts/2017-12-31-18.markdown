@@ -3,5 +3,9 @@ layout: post
 title:  "Beginnings"
 image: https://farm4.staticflickr.com/3856/15096544130_60db7cc296.jpg
 thumbnail: https://farm6.staticflickr.com/5579/15197499536_83f4de0bbc_n.jpg
+dimensionX:
+dimensionY:
+dimensionZ:
+materials:
 price: $925
 ---

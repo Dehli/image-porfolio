@@ -3,6 +3,9 @@ layout: post
 title:  "Grace"
 image: https://farm6.staticflickr.com/5567/14796591826_fabef76a11.jpg
 thumbnail: https://farm4.staticflickr.com/3887/14812655166_5819d72c72_n.jpg
+dimensionX: 21"
+dimensionY: 17"
+dimensionZ: 3"
+materials: Ambrosia Maple/Paduka/Walnut/Copper
+price:
 ---
-
-21" x 17" x 3" Ambrosia Maple/Paduka/Walnut/Copper

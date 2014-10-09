@@ -3,5 +3,9 @@ layout: post
 title:  "Dancer"
 image: https://farm4.staticflickr.com/3874/15146042576_2e0d14cdfe.jpg
 thumbnail: https://farm6.staticflickr.com/5589/15220082422_09c91a7e9e_n.jpg
+dimensionX:
+dimensionY:
+dimensionZ:
+materials:
 price: $1000
 ---

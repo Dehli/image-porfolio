@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Ascending"
+image:
+thumbnail:
+dimensionX:
+dimensionY:
+dimensionZ:
+materials:
+price: $950
+---

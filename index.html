@@ -4,24 +4,26 @@ title: Dehli Design, LLC
 ---
 
 <div id="home">
-  <ul class="posts">
+	<ul class="posts">
 
-    {% for post in site.posts %}
-      
-      {% assign mod = forloop.index0 | modulo:7 %}
-      
-      {% if mod == 0 %}
-        <li>
-      {% endif %}
-      
-      <a href="{{ site.baseurl }}{{ post.url }}">
-        <img class="grayscale" src={{ post.thumbnail}} alt="Art">
-      </a>
-      
-      {% if mod == 6 or forloop.index0 == site.posts.size %}
-        </li>
-      {% endif %}
+		{% for post in site.posts %}
 
-    {% endfor %}
-  </ul>
+			{% assign col = 7 %}
+			{% assign mod = forloop.index0 | modulo:col %}
+
+			{% if mod == 0 %}
+				<li>
+			{% endif %}
+
+				<a href="{{ site.baseurl }}{{ post.url }}">
+					<img class="grayscale" src={{ post.thumbnail}} alt="Art">
+				</a>
+				
+			{% if mod == col - 1 or forloop.index0 == site.posts.size %}
+				</li>
+			{% endif %}
+
+		{% endfor %}
+
+	</ul>
 </div>

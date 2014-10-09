@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Wave"
+image:
+thumbnail:
+dimensionX:
+dimensionY:
+dimensionZ:
+materials:
+price: $100
+---

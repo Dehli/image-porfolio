@@ -3,6 +3,9 @@ layout: post
 title:  "Falling Behind"
 image: https://farm6.staticflickr.com/5574/14819225912_ed46f98ca1.jpg
 thumbnail: https://farm6.staticflickr.com/5582/14861434172_54534c8bb9_n.jpg
+dimensionX: 20"
+dimensionY: 26"
+dimensionZ: 8"
+materials: Walnut/Brass
+price:
 ---
-
-20"x26"x8" Walnut/Brass
