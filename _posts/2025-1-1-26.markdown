@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ascending"
-image:
+image: https://farm4.staticflickr.com/3843/15096713848_71a4e39bb2_b.jpg
 thumbnail:
 dimensionX:
 dimensionY:

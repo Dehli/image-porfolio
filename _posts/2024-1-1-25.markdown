@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Wave"
-image:
+title: "Wave"
+image: https://farm4.staticflickr.com/3929/15245634200_12c54514cd_b.jpg
 thumbnail:
 dimensionX:
 dimensionY:

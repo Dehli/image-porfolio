@@ -174,10 +174,3 @@ img.grayscale:hover {
 .post pre.terminal code {
   background-color: #333;
 }
-
-#dimensions {
-	position: relative;
-	top: 50%;
-	transform: translateY(-50%);
-	margin-left: 50px;
-}

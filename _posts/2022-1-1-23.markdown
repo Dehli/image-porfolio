@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Shake It"
-image:
+title: "Shake It"
+image: https://farm4.staticflickr.com/3936/15432044162_1718b9dbb7_b.jpg
 thumbnail:
 dimensionX:
 dimensionY:
