@@ -18,7 +18,23 @@ function setupHome() {
 	// Sort images based on their height
 	var sorted = [];
 	for (var i = 0; i < images.length; ++i) {
-		var heightString = images[i].alt.replace('"','');; // Original format is 10"		
-		alert(heightString);
+		var height = getHeightFromImg(images[i]);
+		
+		// Inserts the image at the correct location
+		while (j < sorted.length) {
+			if (getHeightFromImg(sorted[j]) >= height) {
+				j++;
+			}
+			else {
+				sorted.splice(j, 0, images[i]);
+				j = sorted.length;
+			}
+		}
 	}
+	
+	
+}
+
+function getHeightFromImg(image){
+	return image.alt.replace('"','');; // 10" -> 10
 }
