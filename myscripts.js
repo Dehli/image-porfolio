@@ -19,7 +19,7 @@ function setupHome() {
 	var sorted = [];
 	for (var i = 0; i < images.length; ++i) {
 		var heightString = images[i].alt; // Format 10"
-		var matches = str.match(/(\d+)sl(\d+)/);
+		var matches = heightString.match(/(\d+)sl(\d+)/);
 		
 		alert(matches[0]);
 	}
