@@ -21,6 +21,6 @@ function setupHome() {
 		var heightString = images[i].alt; // Format 10"
 		var matches = heightString.match(/(\d+)sl(\d+)/);
 		
-		alert(matches[0]);
+		alert(heightString);
 	}
 }
