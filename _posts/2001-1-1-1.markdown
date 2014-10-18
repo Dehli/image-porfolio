@@ -4,7 +4,7 @@ title: "Racing"
 image0: https://farm6.staticflickr.com/5597/15245721678_decc2de214_b.jpg
 image1: https://farm4.staticflickr.com/3926/14819588605_47a6c98b40_b.jpg
 image2:
-thumbnail: 
+thumbnail: https://farm6.staticflickr.com/5600/15566931212_686c5c36e1_b.jpg
 dimensionX: 18"
 dimensionY: 18"
 dimensionZ: 1.5"
