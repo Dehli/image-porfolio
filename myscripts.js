@@ -4,6 +4,6 @@ function setup() {
 	
 	var images = document.getElementsByTagName('img');
 	for (var i = 0; i < images.length; ++i) {
-		alert(images[i]);
+		alert(images[i].src);
 	}
 }
