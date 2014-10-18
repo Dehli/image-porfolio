@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Beaming"
+image0: https://farm3.staticflickr.com/2944/15429119711_89ac3a5e96_b.jpg
+image1: https://farm4.staticflickr.com/3928/15245601380_3009614016_b.jpg 
+image2:
+thumbnail: 
+dimensionX: 96"
+dimensionY: 96"
+dimensionZ: 6"
+materials: Walnut, Aluminum
+price: $4000
+---

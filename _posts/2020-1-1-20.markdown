@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Magnetism"
+image0: https://farm3.staticflickr.com/2911/14632890780_29a4b5d2aa_b.jpg
+image1: 
+image2:
+thumbnail: 
+dimensionX: 47"
+dimensionY: 37"
+dimensionZ: 5"
+materials: Walnut, Copper, Steel Magnets
+price: $1600
+---
