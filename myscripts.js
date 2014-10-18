@@ -11,3 +11,16 @@ function setup() {
 		}
 	}
 }
+
+function setupHome() {
+	var images = document.getElementsByTagName('img');
+	
+	// Sort images based on their height
+	var sorted = [];
+	for (var i = 0; i < images.length; ++i) {
+		var heightString = images[i].alt; // Format 10"
+		var matches = str.match(/(\d+)sl(\d+)/);
+		
+		alert(matches[0]);
+	}
+}
