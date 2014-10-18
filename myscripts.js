@@ -18,9 +18,7 @@ function setupHome() {
 	// Sort images based on their height
 	var sorted = [];
 	for (var i = 0; i < images.length; ++i) {
-		var heightString = images[i].alt; // Format 10"
-		var matches = heightString.match(/(\d+)sl(\d+)/);
-		
+		var heightString = images[i].alt.replace('"','');; // Original format is 10"		
 		alert(heightString);
 	}
 }
