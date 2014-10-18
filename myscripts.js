@@ -4,6 +4,10 @@ function setup() {
 	
 	var images = document.getElementsByTagName('img');
 	for (var i = 0; i < images.length; ++i) {
-		alert(images[i].src);
+		var src = images[i].src;
+		
+		if (src.indexOf("flickr") == -1) {
+			images[i].style.display = 'none';
+		}
 	}
 }
