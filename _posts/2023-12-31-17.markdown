@@ -1,7 +1,9 @@
 ---
 layout: post
 title:  "Dancer"
-image: https://farm4.staticflickr.com/3929/15432078322_8793998cd6_b.jpg
+image0: https://farm4.staticflickr.com/3929/15432078322_8793998cd6_b.jpg
+image1:
+image2:
 thumbnail: https://farm6.staticflickr.com/5589/15220082422_09c91a7e9e_n.jpg
 dimensionX: 47"
 dimensionY: 21"

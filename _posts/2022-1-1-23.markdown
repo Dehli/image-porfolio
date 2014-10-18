@@ -3,6 +3,7 @@ layout: post
 title: "Shake It"
 image0: https://farm4.staticflickr.com/3936/15432044162_1718b9dbb7_b.jpg
 image1: https://farm6.staticflickr.com/5598/15245817288_5baeace67d_b.jpg
+image2:
 thumbnail: https://farm4.staticflickr.com/3862/15238301786_2c4835c6d3_o.png
 dimensionX: 23"
 dimensionY: 22"

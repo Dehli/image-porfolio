@@ -1,7 +1,9 @@
 ---
 layout: post
 title:  "Israel"
-image: https://farm4.staticflickr.com/3864/15153657109_8fd3d8231d.jpg
+image0: https://farm4.staticflickr.com/3864/15153657109_8fd3d8231d.jpg
+image1:
+image2:
 thumbnail: https://farm6.staticflickr.com/5577/15217096081_96624de8a2_n.jpg
 dimensionX: 28"
 dimensionY: 22"

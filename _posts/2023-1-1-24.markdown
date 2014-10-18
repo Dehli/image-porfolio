@@ -1,7 +1,9 @@
 ---
 layout: post
 title:  "New Growth"
-image: https://farm4.staticflickr.com/3932/15429101761_b3f3eda648_b.jpg
+image0: https://farm4.staticflickr.com/3932/15429101761_b3f3eda648_b.jpg
+image1:
+image2:
 thumbnail: https://farm4.staticflickr.com/3862/15034096167_a53b80518a_n.jpg
 dimensionX: 99"
 dimensionY: 28"

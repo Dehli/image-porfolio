@@ -1,7 +1,9 @@
 ---
 layout: post
 title:  "Escape"
-image: https://farm3.staticflickr.com/2916/14817217914_c28c641be7.jpg
+image0: https://farm3.staticflickr.com/2916/14817217914_c28c641be7.jpg
+image1:
+image2:
 thumbnail: https://farm4.staticflickr.com/3897/14861434142_d8191f5bc8_n.jpg
 dimensionX: 15"
 dimensionY: 21"

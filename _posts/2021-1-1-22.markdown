@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "Harmony"
-image: https://farm6.staticflickr.com/5590/15096605249_1fdf645370_b.jpg
+image0: https://farm6.staticflickr.com/5590/15096605249_1fdf645370_b.jpg
+image1:
+image2:
 thumbnail: https://farm4.staticflickr.com/3902/15281727055_b57e32df91_o.png
 dimensionX: 59.5"
 dimensionY: 18"

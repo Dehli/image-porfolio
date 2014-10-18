@@ -1,7 +1,9 @@
 ---
 layout: post
 title:  "Beginnings"
-image: https://farm4.staticflickr.com/3932/15245726090_2d369ab6cf_b.jpg
+image0: https://farm4.staticflickr.com/3932/15245726090_2d369ab6cf_b.jpg
+image1:
+image2:
 thumbnail: https://farm6.staticflickr.com/5579/15197499536_83f4de0bbc_n.jpg
 dimensionX: 39.5"
 dimensionY: 16"

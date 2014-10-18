@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "Journey"
-image: https://farm4.staticflickr.com/3929/15245628980_bee18ccb3c_b.jpg
+image0: https://farm4.staticflickr.com/3929/15245628980_bee18ccb3c_b.jpg
+image1:
+image2:
 thumbnail: https://farm4.staticflickr.com/3848/15095168947_a998cc9bc6_o.png
 dimensionX: 58"
 dimensionY: 24"

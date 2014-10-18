@@ -3,6 +3,7 @@ layout: post
 title: "Ascending"
 image0: https://farm3.staticflickr.com/2950/15245845148_81b87e3b38_b.jpg
 image1: https://farm4.staticflickr.com/3935/15429262061_9c57462f36_b.jpg
+image2:
 thumbnail: https://farm6.staticflickr.com/5570/15094969049_196ea7e99e_o.png
 dimensionX: 52"
 dimensionY: 10"
