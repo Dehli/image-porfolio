@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Serenity"
-image0: https://farm6.staticflickr.com/5598/15432367355_28aa1f1561_b.jpg
-thumbnail: https://farm4.staticflickr.com/3904/15258706376_0c019ce9bc_o.png
-dimensionX: 21.5"
-dimensionY: 15"
-dimensionZ: 3"
-materials: Walnut & Copper
-price: $300
+title:  "New Growth"
+image: https://farm4.staticflickr.com/3932/15429101761_b3f3eda648_b.jpg
+thumbnail: https://farm4.staticflickr.com/3862/15034096167_a53b80518a_n.jpg
+dimensionX: 99"
+dimensionY: 28"
+dimensionZ: 5.5"
+materials: Walnut/Ambrosia Maple/Copper
+price: $1900
 ---
