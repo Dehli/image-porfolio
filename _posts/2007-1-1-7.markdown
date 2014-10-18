@@ -8,6 +8,6 @@ thumbnail: https://farm4.staticflickr.com/3917/15197322626_5744bdc91c_n.jpg
 dimensionX: 29"
 dimensionY: 22"
 dimensionZ: 4"
-materials: Walnuta, Ambrosia Maple, Paduka, Copper
+materials: Walnut, Ambrosia Maple, Paduka, Copper
 price: $750
 ---

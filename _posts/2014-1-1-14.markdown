@@ -2,7 +2,7 @@
 layout: post
 title:  "Serenity"
 image0: https://farm6.staticflickr.com/5598/15432367355_28aa1f1561_b.jpg
-image1:
+image1: https://farm3.staticflickr.com/2941/15096827597_4ae976909a_b.jpg
 image2:
 thumbnail: https://farm4.staticflickr.com/3904/15258706376_0c019ce9bc_o.png
 dimensionX: 21.5"
