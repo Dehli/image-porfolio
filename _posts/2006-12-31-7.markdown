@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Mirage"
+image0: https://farm6.staticflickr.com/5580/14632890020_7aba1cd07e_b.jpg
+image1:
+image2:
+thumbnail:
+dimensionX: 39"
+dimensionY: 6.5"
+dimensionZ: 4"
+materials: Walnut, Copper
+price: $200
+---
