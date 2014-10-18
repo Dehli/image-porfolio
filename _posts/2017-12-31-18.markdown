@@ -3,9 +3,9 @@ layout: post
 title:  "Beginnings"
 image: https://farm4.staticflickr.com/3932/15245726090_2d369ab6cf_b.jpg
 thumbnail: https://farm6.staticflickr.com/5579/15197499536_83f4de0bbc_n.jpg
-dimensionX:
-dimensionY:
-dimensionZ:
-materials:
+dimensionX: 39.5"
+dimensionY: 16"
+dimensionZ: 4.5"
+materials: Walnut, Maple, Copper
 price: $925
 ---

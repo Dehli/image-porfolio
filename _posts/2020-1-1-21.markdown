@@ -2,10 +2,10 @@
 layout: post
 title: "Journey"
 image: https://farm4.staticflickr.com/3929/15245628980_bee18ccb3c_b.jpg
-thumbnail:
-dimensionX:
-dimensionY:
-dimensionZ:
-materials:
+thumbnail: https://farm4.staticflickr.com/3848/15095168947_a998cc9bc6_o.png
+dimensionX: 58"
+dimensionY: 24"
+dimensionZ: 6.5"
+materials: Walnut, Copper
 price: $1150
 ---

@@ -3,9 +3,9 @@ layout: post
 title:  "Soaring"
 image: https://farm4.staticflickr.com/3918/15260213816_db89607feb.jpg
 thumbnail: https://farm4.staticflickr.com/3917/15197322626_5744bdc91c_n.jpg
-dimensionX:
-dimensionY:
-dimensionZ:
-materials:
+dimensionX: 29"
+dimensionY: 22"
+dimensionZ: 4"
+materials: Walnuta, Ambrosia Maple, Paduka, Copper
 price: $750
 ---

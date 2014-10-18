@@ -3,9 +3,9 @@ layout: post
 title:  "Hope"
 image: https://farm4.staticflickr.com/3934/15429158381_ab47a5751a_b.jpg
 thumbnail: https://farm4.staticflickr.com/3840/15220036432_7929163c6a_n.jpg
-dimensionX:
-dimensionY:
-dimensionZ:
-materials:
+dimensionX: 25
+dimensionY: 11.5
+dimensionZ: 3.5
+materials: Ambrosia Maple, Walnut, Copper
 price: $660
 ---

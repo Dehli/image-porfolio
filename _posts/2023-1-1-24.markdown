@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Serenity"
-image:
-thumbnail:
-dimensionX:
-dimensionY:
-dimensionZ:
-materials:
+image0: https://farm6.staticflickr.com/5598/15432367355_28aa1f1561_b.jpg
+thumbnail: https://farm4.staticflickr.com/3904/15258706376_0c019ce9bc_o.png
+dimensionX: 21.5"
+dimensionY: 15"
+dimensionZ: 3"
+materials: Walnut & Copper
 price: $300
 ---
