@@ -42,6 +42,7 @@ function setupHome() {
 	for (var i = 1; i < sorted.length; ++i) {
 		var ratio = getHeightFromImg(sorted[i])/tallestHeightInches;
 		sorted[i].parentNode.height = ratio * tallestHeightPixels;
+		sorted[i].height = ratio * tallestHeightPixels;
 	}
 	
 }
