@@ -40,15 +40,8 @@ function setupHome() {
 	var tallestHeightInches = getHeightFromImg(sorted[0]);
 	var tallestHeightPixels = sorted[0].height;
 	for (var i = 1; i < sorted.length; ++i) {
-		var ratio1 = getHeightFromImg(sorted[i])/tallestHeightInches;
-		var ratio2 = ratio1 * tallestHeightPixels;
-		var ratio3 = ratio2 / sorted[i].height;
-		
-		sorted[i].parentNode.height = sorted[i].height * ratio3;
-		sorted[i].parentNode.width = sorted[i].width * ratio3;
-	
-		sorted[i].height = sorted[i].height * ratio3;
-		sorted[i].width = sorted[i].width * ratio3;
+		var ratio = getHeightFromImg(sorted[i])/tallestHeightInches;
+		sorted[i].parentNode.height = ratio * tallestHeightPixels;
 	}
 	
 }
