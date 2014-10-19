@@ -41,8 +41,10 @@ function setupHome() {
 	var tallestHeightPixels = sorted[0].height;
 	for (var i = 1; i < sorted.length; ++i) {
 		var ratio = getHeightFromImg(sorted[i])/tallestHeightInches;
+		var ratio2 = sorted[i].height / tallestHeightPixels;
 		
-		sorted[i].height = ratio * tallestHeightPixels;
+		sorted[i].height = sorted[i].height * ratio2;
+		sorted[i].width = sorted[i].width * ratio2;
 	}
 	
 }
