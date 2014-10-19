@@ -42,10 +42,10 @@ function setupHome() {
 	for (var i = 0; i < sorted.length; ++i) {
 		var ratio = getHeightFromImg(sorted[i])/tallestHeightInches;
 		
-		var heightToWidth = sorted[i].height/sorted[i].width;
+		var heightOverWidth = sorted[i].height/sorted[i].width;
 		
 		var newHeight = ratio * tallestHeightPixels;
-		var newWidth  = heightToWidth / newHeight;
+		var newWidth  = newHeight / heightOverWidth;
 		
 		sorted[i].parentNode.height = newHeight;
 		sorted[i].height = newHeight;
