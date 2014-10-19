@@ -22,9 +22,7 @@ function setupHome() {
 				
 		// Inserts the image at the correct location
 		var j = 0;
-		while (j <= sorted.length) {
-			alert("i:" + i + " j:" + j);
-			
+		while (j <= sorted.length) {			
 			if (j == sorted.length) {
 				sorted.splice(j, 0, images[i]);
 				j = sorted.length + 1;
@@ -39,6 +37,7 @@ function setupHome() {
 		}
 	}
 	
+	alert("Length:" + sorted.length);
 	for (var i = 0; i < sorted.length; ++i) {
 		alert(getHeightFromImg(sorted[i]));
 	}
@@ -46,5 +45,5 @@ function setupHome() {
 }
 
 function getHeightFromImg(image){
-	return image.alt.replace('"','');; // 10" -> 10
+	return Number(image.alt.replace('"','')); // 10" -> 10
 }
