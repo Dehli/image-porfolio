@@ -37,9 +37,9 @@ function setupHome() {
 		}
 	}
 	
-	alert("Length:" + sorted.length);
+	var tallest = getHeightFromImg(sorted[0]);
 	for (var i = 0; i < sorted.length; ++i) {
-		alert(getHeightFromImg(sorted[i]));
+		
 	}
 	
 }
