@@ -37,9 +37,12 @@ function setupHome() {
 		}
 	}
 	
-	var tallest = getHeightFromImg(sorted[0]);
-	for (var i = 0; i < sorted.length; ++i) {
+	var tallestHeightInches = getHeightFromImg(sorted[0]);
+	var tallestHeightPixels = sorted[0].height;
+	for (var i = 1; i < sorted.length; ++i) {
+		var ratio = getHeightFromImg(sorted[i])/tallestHeightInches;
 		
+		sorted[i].height = ratio * tallestHeightPixels;
 	}
 	
 }
