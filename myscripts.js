@@ -21,13 +21,17 @@ function setupHome() {
 		var height = getHeightFromImg(images[i]);
 		
 		// Inserts the image at the correct location
-		while (j < sorted.length) {
-			if (getHeightFromImg(sorted[j]) >= height) {
+		var j = 0;
+		while (j <= sorted.length) {
+			if (j == sorted.length) {
+				sorted.splice(j, 0, images[i]);
+			}
+			else if (getHeightFromImg(sorted[j]) >= height) {
 				j++;
 			}
 			else {
 				sorted.splice(j, 0, images[i]);
-				j = sorted.length;
+				j = sorted.length + 1;
 			}
 		}
 		
