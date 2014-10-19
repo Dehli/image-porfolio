@@ -19,10 +19,12 @@ function setupHome() {
 	var sorted = [];
 	for (var i = 0; i < images.length; ++i) {
 		var height = getHeightFromImg(images[i]);
-		
+				
 		// Inserts the image at the correct location
 		var j = 0;
 		while (j <= sorted.length) {
+			alert("i:" + i + " j:" + j);
+			
 			if (j == sorted.length) {
 				sorted.splice(j, 0, images[i]);
 				j = sorted.length + 1;
