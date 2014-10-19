@@ -45,7 +45,7 @@ function setupHome() {
 		var heightToWidth = sorted[i].height/sorted[i].width;
 		
 		var newHeight = ratio * tallestHeightPixels;
-		var newWidth  = heightToWidth * newHeight;
+		var newWidth  = heightToWidth / newHeight;
 		
 		sorted[i].parentNode.height = newHeight;
 		sorted[i].height = newHeight;
