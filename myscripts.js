@@ -30,6 +30,10 @@ function setupHome() {
 				j = sorted.length;
 			}
 		}
+		
+		for (var i = 0; i < sorted.length; ++i) {
+			alert(getHeightFromImg(sorted[i]));
+		}
 	}
 	
 	
