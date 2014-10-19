@@ -44,6 +44,9 @@ function setupHome() {
 		var ratio2 = ratio1 * tallestHeightPixels;
 		var ratio3 = ratio2 / sorted[i].height;
 		
+		sorted[i].parentNode.height = sorted[i].height * ratio3;
+		sorted[i].parentNode.width = sorted[i].width * ratio3;
+	
 		sorted[i].height = sorted[i].height * ratio3;
 		sorted[i].width = sorted[i].width * ratio3;
 	}
