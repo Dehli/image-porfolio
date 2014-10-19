@@ -25,6 +25,7 @@ function setupHome() {
 		while (j <= sorted.length) {
 			if (j == sorted.length) {
 				sorted.splice(j, 0, images[i]);
+				j = sorted.length + 1;
 			}
 			else if (getHeightFromImg(sorted[j]) >= height) {
 				j++;
