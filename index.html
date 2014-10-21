@@ -14,7 +14,7 @@ title: Dehli Design, LLC
 			{% assign col = 7 %}
 			{% assign mod = forloop.index0 | modulo:col %}
 
-			{% if mod == 0 %}
+			{% if forloop.index0 == 0 %}
 				<li>
 			{% endif %}
 
@@ -22,7 +22,7 @@ title: Dehli Design, LLC
 					<img class="grayscale" src={{ post.thumbnail}} alt={{ post.dimensionX }}>
 				</a>
 				
-			{% if mod == col - 1 or forloop.index0 == site.posts.size %}
+			{% if forloop.index0 == site.posts.size %}
 				</li>
 			{% endif %}
 
