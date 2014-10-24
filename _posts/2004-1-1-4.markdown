@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Trinity"
-image0: https://farm4.staticflickr.com/3885/14819223532_804621c563.jpg
-image1:
+title: "Balance"
+image0: https://farm4.staticflickr.com/3865/14632937449_6bc5d7e3c9_b.jpg
+image1: https://farm6.staticflickr.com/5587/14817220884_fd70fd957b_b.jpg
 image2:
-thumbnail: https://farm4.staticflickr.com/3836/15128821296_6a3a30beba_n.jpg
-dimensionX: 37.5"
-dimensionY: 7"
-dimensionZ: 5"
-materials: Walnut/Copper
-price: $200
+thumbnail: https://farm4.staticflickr.com/3942/15379298809_f8a5f0ba8b_o.png
+dimensionX: 9"
+dimensionY: 46"
+dimensionZ: 2"
+materials: Maple, Walnut, Copper
+price: $350
 ---
