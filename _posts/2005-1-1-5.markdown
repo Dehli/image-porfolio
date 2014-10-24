@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Israel"
-image0: https://farm4.staticflickr.com/3876/15340203775_7fc6b169e1_b.jpg
-image1: https://farm3.staticflickr.com/2947/15409338766_5d6d644852_b.jpg
-image2: 
-thumbnail: https://farm6.staticflickr.com/5577/15217096081_96624de8a2_n.jpg
-dimensionX: 28"
-dimensionY: 22"
-dimensionZ: 10"
-materials: Ambrosia maple/Walnut/Copper
-price: $1000
+title:  "Hope"
+image0: https://farm4.staticflickr.com/3934/15429158381_ab47a5751a_b.jpg
+image1: https://farm3.staticflickr.com/2941/15283003602_cf701ea8d5_b.jpg
+image2:
+thumbnail: https://farm4.staticflickr.com/3840/15220036432_7929163c6a_n.jpg
+dimensionX: 25
+dimensionY: 11.5
+dimensionZ: 3.5
+materials: Ambrosia Maple, Walnut, Copper
+price: $660
 ---

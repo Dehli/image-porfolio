@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Hope"
-image0: https://farm4.staticflickr.com/3934/15429158381_ab47a5751a_b.jpg
-image1: https://farm3.staticflickr.com/2941/15283003602_cf701ea8d5_b.jpg
+title:  "Soaring"
+image0: https://farm6.staticflickr.com/5597/15245739490_92565dda3f_b.jpg
+image1: https://farm4.staticflickr.com/3933/15245853378_facfbd7987_b.jpg
 image2:
-thumbnail: https://farm4.staticflickr.com/3840/15220036432_7929163c6a_n.jpg
-dimensionX: 25
-dimensionY: 11.5
-dimensionZ: 3.5
-materials: Ambrosia Maple, Walnut, Copper
-price: $660
+thumbnail: https://farm4.staticflickr.com/3917/15197322626_5744bdc91c_n.jpg
+dimensionX: 29"
+dimensionY: 22"
+dimensionZ: 4"
+materials: Walnut, Ambrosia Maple, Paduka, Copper
+price: $750
 ---
