@@ -38,7 +38,7 @@ function setupHome() {
 	}
 	
 	var tallestHeightInches = getHeightFromImg(sorted[0]);
-	var tallestHeightPixels = 200;
+	var tallestHeightPixels = 500;
 	for (var i = 0; i < sorted.length; ++i) {
 		var ratio = getHeightFromImg(sorted[i])/tallestHeightInches;
 		
