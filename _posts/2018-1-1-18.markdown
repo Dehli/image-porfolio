@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Ascending"
-image0: https://farm3.staticflickr.com/2950/15245845148_81b87e3b38_b.jpg
-image1: https://farm4.staticflickr.com/3935/15429262061_9c57462f36_b.jpg
+title: "Journey"
+image0: https://farm4.staticflickr.com/3929/15245628980_bee18ccb3c_b.jpg
+image1:
 image2:
-thumbnail: https://farm6.staticflickr.com/5570/15094969049_196ea7e99e_o.png
-dimensionX: 52"
-dimensionY: 10"
-dimensionZ: 3"
-materials: Walnut/Ambrosia Maple Copper
-price: $950
+thumbnail: https://farm4.staticflickr.com/3848/15095168947_a998cc9bc6_o.png
+dimensionX: 58"
+dimensionY: 24"
+dimensionZ: 6.5"
+materials: Walnut, Copper
+price: $1150
 ---
