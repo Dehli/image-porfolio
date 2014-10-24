@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Flowing"
-image0: https://farm6.staticflickr.com/5570/15034010048_175d9a0917.jpg
-image1: https://farm6.staticflickr.com/5599/15431939532_dc024a176a_b.jpg
+title: "Ascending"
+image0: https://farm3.staticflickr.com/2950/15245845148_81b87e3b38_b.jpg
+image1: https://farm4.staticflickr.com/3935/15429262061_9c57462f36_b.jpg
 image2:
-thumbnail: https://farm6.staticflickr.com/5579/15248818931_e87cffb9c1_n.jpg
-dimensionX: 45"
-dimensionY: 11"
-dimensionZ: 5"
-materials: Ambrosia maple/Walnut
-price: $3000
+thumbnail: https://farm6.staticflickr.com/5570/15094969049_196ea7e99e_o.png
+dimensionX: 52"
+dimensionY: 10"
+dimensionZ: 3"
+materials: Walnut/Ambrosia Maple Copper
+price: $950
 ---
