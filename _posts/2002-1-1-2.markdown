@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Serenity"
-image0: https://farm6.staticflickr.com/5598/15432367355_28aa1f1561_b.jpg
-image1: https://farm3.staticflickr.com/2941/15096827597_4ae976909a_b.jpg
+title: "Racing"
+image0: https://farm6.staticflickr.com/5597/15245721678_decc2de214_b.jpg
+image1: https://farm4.staticflickr.com/3926/14819588605_47a6c98b40_b.jpg
 image2:
-thumbnail: https://farm4.staticflickr.com/3904/15258706376_0c019ce9bc_o.png
-dimensionX: 21.5"
-dimensionY: 15"
-dimensionZ: 3"
-materials: Walnut & Copper
-price: $300
+thumbnail: https://farm6.staticflickr.com/5600/15566931212_686c5c36e1_b.jpg
+dimensionX: 18"
+dimensionY: 18"
+dimensionZ: 1.5"
+materials: Walnut, Copper
+price: $325
 ---

@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Racing"
-image0: https://farm6.staticflickr.com/5597/15245721678_decc2de214_b.jpg
-image1: https://farm4.staticflickr.com/3926/14819588605_47a6c98b40_b.jpg
+title:  "Escape"
+image0: https://farm3.staticflickr.com/2942/15432378165_a7777873f9_b.jpg
+image1: https://farm3.staticflickr.com/2916/14817217914_c28c641be7.jpg
 image2:
-thumbnail: https://farm6.staticflickr.com/5600/15566931212_686c5c36e1_b.jpg
-dimensionX: 18"
-dimensionY: 18"
-dimensionZ: 1.5"
-materials: Walnut, Copper
-price: $325
+thumbnail: https://farm4.staticflickr.com/3897/14861434142_d8191f5bc8_n.jpg
+dimensionX: 15"
+dimensionY: 21"
+dimensionZ: 2"
+materials: Walnut/Copper
+price: $430
 ---

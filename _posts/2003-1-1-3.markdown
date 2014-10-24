@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Escape"
-image0: https://farm3.staticflickr.com/2942/15432378165_a7777873f9_b.jpg
-image1: https://farm3.staticflickr.com/2916/14817217914_c28c641be7.jpg
+title:  "Serenity"
+image0: https://farm6.staticflickr.com/5598/15432367355_28aa1f1561_b.jpg
+image1: https://farm3.staticflickr.com/2941/15096827597_4ae976909a_b.jpg
 image2:
-thumbnail: https://farm4.staticflickr.com/3897/14861434142_d8191f5bc8_n.jpg
-dimensionX: 15"
-dimensionY: 21"
-dimensionZ: 2"
-materials: Walnut/Copper
-price: $430
+thumbnail: https://farm4.staticflickr.com/3904/15258706376_0c019ce9bc_o.png
+dimensionX: 21.5"
+dimensionY: 15"
+dimensionZ: 3"
+materials: Walnut & Copper
+price: $300
 ---
