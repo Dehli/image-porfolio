@@ -50,8 +50,8 @@ function setupHome() {
 		sorted[i].parentNode.height = newHeight;
 		sorted[i].height = newHeight;
 		
-		//sorted[i].parentNode.style.width = newWidth;
-		sorted[i].width = 'auto';
+		sorted[i].parentNode.width = newWidth;
+		sorted[i].width = newWidth;
 	}
 	
 }
