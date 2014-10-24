@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Mirage"
-image0: https://farm6.staticflickr.com/5580/14632890020_7aba1cd07e_b.jpg
-image1:
+title:  "Serenity"
+image0: https://farm6.staticflickr.com/5598/15432367355_28aa1f1561_b.jpg
+image1: https://farm3.staticflickr.com/2941/15096827597_4ae976909a_b.jpg
 image2:
-thumbnail: https://farm6.staticflickr.com/5607/15566826632_36867c0303_b.jpg
-dimensionX: 39"
-dimensionY: 6.5"
-dimensionZ: 4"
-materials: Walnut, Copper
-price: $200
+thumbnail: https://farm4.staticflickr.com/3904/15258706376_0c019ce9bc_o.png
+dimensionX: 21.5"
+dimensionY: 15"
+dimensionZ: 3"
+materials: Walnut & Copper
+price: $300
 ---

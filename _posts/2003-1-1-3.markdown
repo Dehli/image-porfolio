@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Trinity"
-image0: https://farm4.staticflickr.com/3885/14819223532_804621c563.jpg
-image1:
+title:  "Escape"
+image0: https://farm3.staticflickr.com/2942/15432378165_a7777873f9_b.jpg
+image1: https://farm3.staticflickr.com/2916/14817217914_c28c641be7.jpg
 image2:
-thumbnail: https://farm4.staticflickr.com/3836/15128821296_6a3a30beba_n.jpg
-dimensionX: 37.5"
-dimensionY: 7"
-dimensionZ: 5"
+thumbnail: https://farm4.staticflickr.com/3897/14861434142_d8191f5bc8_n.jpg
+dimensionX: 15"
+dimensionY: 21"
+dimensionZ: 2"
 materials: Walnut/Copper
-price: $200
+price: $430
 ---
