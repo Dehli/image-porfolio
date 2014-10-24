@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Hope"
-image0: https://farm4.staticflickr.com/3934/15429158381_ab47a5751a_b.jpg
-image1: https://farm3.staticflickr.com/2941/15283003602_cf701ea8d5_b.jpg
+title:  "Trinity"
+image0: https://farm4.staticflickr.com/3885/14819223532_804621c563.jpg
+image1:
 image2:
-thumbnail: https://farm4.staticflickr.com/3840/15220036432_7929163c6a_n.jpg
-dimensionX: 25
-dimensionY: 11.5
-dimensionZ: 3.5
-materials: Ambrosia Maple, Walnut, Copper
-price: $660
+thumbnail: https://farm4.staticflickr.com/3836/15128821296_6a3a30beba_n.jpg
+dimensionX: 37.5"
+dimensionY: 7"
+dimensionZ: 5"
+materials: Walnut/Copper
+price: $200
 ---

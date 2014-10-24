@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Trinity"
-image0: https://farm4.staticflickr.com/3885/14819223532_804621c563.jpg
+title:  "Rocket Man"
+image0: https://farm6.staticflickr.com/5551/15260314766_ec3e5f1a14_z.jpg
 image1:
 image2:
-thumbnail: https://farm4.staticflickr.com/3836/15128821296_6a3a30beba_n.jpg
-dimensionX: 37.5"
-dimensionY: 7"
-dimensionZ: 5"
-materials: Walnut/Copper
-price: $200
+thumbnail: https://farm4.staticflickr.com/3893/15033654998_98b092432d_n.jpg
+dimensionX: 33"
+dimensionY: 16"
+dimensionZ: 3.5"
+materials: Ambrosia Maple/Walnut/Copper
+price: $520
 ---
