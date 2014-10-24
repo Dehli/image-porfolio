@@ -4,7 +4,7 @@ title: "Beaming"
 image0: https://farm3.staticflickr.com/2944/15429119711_89ac3a5e96_b.jpg
 image1: https://farm4.staticflickr.com/3928/15245601380_3009614016_b.jpg 
 image2:
-thumbnail: https://farm6.staticflickr.com/5614/15566738212_2b08405d27_o.png
+thumbnail: https://farm6.staticflickr.com/5614/15566738212_8e28334203.jpg
 dimensionX: 96"
 dimensionY: 96"
 dimensionZ: 6"
