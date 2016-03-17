@@ -1,6 +1,9 @@
 name: Dehli Design, LLC
-markdown: redcarpet
-pygments: true
-permalink: none
 github: [Repository metadata]
 baseurl: #image-portfolio
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Settings Unique to the Site
