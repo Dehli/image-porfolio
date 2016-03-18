@@ -12,7 +12,10 @@ body {
         #about {
             img {
                 border-radius: 20px;
-                width: 100%;
+                float: left;
+                width: 135px;
+                margin-top: 5px;
+                margin-right: 10px;
             }
         }
 
@@ -32,6 +35,12 @@ body {
         #contact {
             .progress, .message-sent {
                 display: none;
+            }
+        }
+
+        .modal {
+            img {
+                width: 100%;
             }
         }
     }

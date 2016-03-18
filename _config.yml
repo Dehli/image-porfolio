@@ -5,5 +5,3 @@ baseurl: #image-portfolio
 # Build settings
 markdown: kramdown
 permalink: pretty
-
-# Settings Unique to the Site

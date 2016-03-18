@@ -10,7 +10,6 @@ $(function() {
 });
 
 function openModal(index) {
-    return;
     $("#modal-" + index).modal();
 }
 
